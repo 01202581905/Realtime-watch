@@ -1,0 +1,17 @@
+@font-face {
+    font-family: DigitalDismay;
+    src: url(font/DigitalDismay.otf);
+}
+.content {
+    max-width: 80%;
+    margin: 150px auto 0;
+}
+
+.time {
+    font-size: 64px;
+    letter-spacing: 7px;
+    font-style: italic;
+    color: #18c9f1;
+    font-family: DigitalDismay, "Times New Roman", Times, serif;
+    text-align: center;
+}
